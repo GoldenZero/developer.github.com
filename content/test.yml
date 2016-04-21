@@ -3,7 +3,7 @@ en:
   api:
     errors:
       profile_completed_step:
-        incorrect: incorrect
+        incorrect: show me the test there
       device_token:
         cannot_be_blank: "Device token can't be blank"
       device_type:
