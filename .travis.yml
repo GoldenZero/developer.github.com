@@ -4,7 +4,7 @@ rvm:
 cache:
   directories:
     - vendor/bundle
-    - node_modules
+    - node_modules bundle twenty two
 sudo: false
 git:
   depth: 10
