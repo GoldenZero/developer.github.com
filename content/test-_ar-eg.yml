@@ -1,0 +1,47 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: غير صحيح
+      device_token:
+        cannot_be_blank: رمز الجهاز لا يمكن أن يكون فارغا
+      device_type:
+        is_required: مطلوب نوع الجهاز
+      email_or_password_not_present: يجب أن يتضمن الطلب على البريد الإلكتروني وكلمة المرور
+      access_token_invalid: تصريح الدخول غير صالح
+      video_request:
+        over: هذه مكالمة الفيديو
+      video_request1:
+        over1: ويتم ذلك مكالمة فيديو
+      video_request2:
+        over2: هذه مكالمة الفيديو في التقدم
+      video_request3:
+        over2: هذه المكالمة المرئية 3 جارية
+      video_request4:
+        over2: هذه المكالمة المرئية 44 قيد التنفيذ
+      video_request5:
+        newnew: جديد جديد جديد
+      video_request6:
+        newseq: سيتم إضافة شريحة رقم 6 لملف qordoba
+rofile_completed_step:
+        incorrect: غير صحيح
+      device_token:
+        cannot_be_blank: رمز الجهاز لا يمكن أن يكون فارغا
+      device_type:
+        is_required: مطلوب نوع الجهاز
+      email_or_password_not_present: يجب أن يتضمن الطلب على البريد الإلكتروني وكلمة المرور
+      access_token_invalid: تصريح الدخول غير صالح
+      video_request:
+        over: هذه مكالمة الفيديو
+      video_request1:
+        over1: ويتم ذلك مكالمة فيديو
+      video_request2:
+        over2: هذه مكالمة الفيديو في التقدم
+      video_request3:
+        over2: هذه المكالمة المرئية 3 جارية
+      video_request4:
+        over2: هذه المكالمة المرئية 44 قيد التنفيذ
+      video_request5:
+        newnew: جديد جديد جديد
+      video_request6:
+        newseq: سيتم إضافة شري�
