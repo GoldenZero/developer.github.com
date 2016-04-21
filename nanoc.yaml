@@ -6,6 +6,7 @@ pipeline_config:
     - :RougeFilter
     - :EmojiFilter
     - :PageTocFilter
+    - :PageTocFilter222
   gfm: false
   http_url: https://github.com
   base_url: /
