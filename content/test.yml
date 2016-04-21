@@ -1,0 +1,26 @@
+---
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: incorrect
+      device_token:
+        cannot_be_blank: "Device token can't be blank"
+      device_type:
+        is_required: Device type is required
+      email_or_password_not_present: The request must contain the email and password
+      access_token_invalid: invalid access token
+      video_request:
+        over: This video call is over
+      video_request1:
+        over1: This video call is done
+      video_request2:
+        over2: This video call is in progress
+      video_request3:
+        over2: This video 3 call is in progress
+      video_request4:
+        over2: This video 44 call is in progress
+      video_request5:
+        newnew: New new new
+      video_request6:
+        newseq: Segment number 6 will be added to the qordoba file
