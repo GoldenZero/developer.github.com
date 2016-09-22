@@ -5,6 +5,8 @@ This is a GitHub API resource built with [Nanoc][nanoc].
 All submissions are welcome. To submit a change, fork this repo, commit your changes, and send us a [pull request](http://help.github.com/send-pull-requests/).
 
 ## Development
+Not sure how to structure the docs?  Here's what the structure of the
+API docs should look like:
 
 You can fetch the latest dependencies by opening the command line and running `script/bootstrap`:
 
